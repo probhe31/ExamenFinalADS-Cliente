@@ -1,9 +1,16 @@
 <resources>
-    <string name="app_name">StudentApp</string>
+    <string name="app_name">ExamenFinal</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_all_students">Estudiantes</string>
+    <string name="nav_pregrado">Pregrado</string>
+    <string name="nav_posgrado">Posgrado</string>
+    <string name="nav_doctorado">Doctorado</string>
 </resources>
